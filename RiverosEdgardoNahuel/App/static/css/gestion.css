@@ -1,0 +1,23 @@
+body {
+  font-family: 'Lora';
+  background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/fondo.webp");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.tam {
+  padding: 2px;
+  width: 64vh;
+}
+.textColor {
+  
+  color: rgb(255, 255, 255) !important;
+}
+.fondoNav{
+  background: rgba(14, 197, 45, 0.3);
+}
+
+.fondoFot{
+  background: rgba(14, 197, 45 , 0.8);
+}
